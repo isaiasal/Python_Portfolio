@@ -1,3 +1,7 @@
+#This code demonstrates the use of Python's set data structure to perform
+#operations like displaying members, intersections, unions, differences, and 
+#symmetric differences between two groups of students who play baseball and basketball
+
 baseball = set (['Jodi', 'Maria', 'Mario', 'Alicia'])
 basketball = set (['Carlos', 'Maria', 'Carla', 'Juan'])
 
